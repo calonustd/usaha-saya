@@ -1,0 +1,28 @@
+{
+  "folders": [
+	{
+		"path": "../../tugas2"
+	},
+	{
+		"path": "../../tugas 3"
+	},
+	{
+		"path": "../../tugas 4"
+	},
+	{
+		"path": "../../tugas 5"
+	},
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../tugas7"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "tugas7"
+  },
+  "extensions": {
+    "recommendations": ["ritwickdey.liveserver"]
+  }
+}
